@@ -12,5 +12,10 @@ public class ders2GıtGıthub {
                       git push -u origin master
                       bu iki komutu tek sefer kulandiktan sonra sadece git push yazmamiz yeterlidir
 
+
+
+githup'tan duzenlendi
+
+
      */
 }
